@@ -7,6 +7,7 @@ package com.company;/*
 //probar usar interface para definir las funciones
 //agregar booleano con condicional if para reducir los procesos y hacer mas leible el codigo
 //ejemplo si es unidad o si es decena o si es centena o si es caracter especial
+//cambiar  a minuscula la primera letra y mayuscula la siguente el inicio de las palabras compuestas
 
 import java.util.Scanner;
 
@@ -46,7 +47,7 @@ public class NumeroaLetra {
 
     }
 
-    public void EntradaDatos() {
+    public void entradaDatos() {
 
         System.out.println("----------------------------------------");
         System.out.print("Ingrese un numero entre 0-100,000: ");
@@ -55,7 +56,7 @@ public class NumeroaLetra {
 
     }
 
-    public void MostrarEnLetra() {
+    public void mostrarEnLetra() {
 
         /*
          * -Decenatrescifras: en numeros con 3 cifras calcula las decenas.
