@@ -5,6 +5,8 @@ package com.company;/*
  */
 //probar si se puede usar la programacion funcional(lambdas) en el codigo
 //probar usar interface para definir las funciones
+//agregar booleano con condicional if para reducir los procesos y hacer mas leible el codigo
+//ejemplo si es unidad o si es decena o si es centena o si es caracter especial
 
 import java.util.Scanner;
 
